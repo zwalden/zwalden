@@ -1,7 +1,6 @@
 # Zechariah Walden
 * Principal Engineer
-* 📞 573.557.9392
-* 📧 zech@findsomehelp.com
+* 📧 zech@xen.studio
 
 ## Social
 * [GitHub](https://github.com/zwalden)
@@ -38,7 +37,7 @@ Dedicated and driven coder with over 20 years of experience, capable of expertly
 #### Responsibilities:
 * Led team of developers in agile and software development life cycle workflows
 * Developed and maintained high availability microservice architecture for a loyalty incentives platform
-* Developed and maintained a private package repository for SDKs with semantic versioning
+* Developed and maintained private package repositories for SDKs with semantic versioning
 * Integrated with financial services (banks, card processors, check processors, gift card fulfillment)
 * Regularly performed code reviews for co-workers
 * Established continuous integration and deployment through Jenkins with automated build scripts that ran unit tests, static analysis on code, and deployed to QA, stage, and production based on triggers directed from management for over 100 projects
@@ -46,10 +45,10 @@ Dedicated and driven coder with over 20 years of experience, capable of expertly
 * Established best practices and provided intel for decision-making
 
 #### Technologies:
-* PHP, JS, MySQL, Google Cloud, Joyent, Git, Docker, Kubernetes, ElasticSearch, Vagrant, VirtualBox, Puppet, NginX, Apache, Linux, Laravel, Kibana, Metabase
+* PHP, JS, MySQL, Google Cloud, Joyent, Git, Docker, Kubernetes, Redis, AMQP, Vagrant, VirtualBox, Puppet, NginX, Apache, Linux, Laravel, Kibana, Metabase
 
 #### Highlights:
-* Migrated tens of millions of records and three antiquated loyalty systems into a newly built centralized client/server platform for a large, established survey company
+* Migrated tens of millions of records and three antiquated loyalty systems into a newly built microservices platform for a large, established survey company
 * Implemented Docker & Kubernetes in a microservice architecture, developing and implementing purpose-driven services with integration and unit testing during their automated deployment through continuous integration
 
 ### ZEWADesign, LLC (September 2008 - 2012)
