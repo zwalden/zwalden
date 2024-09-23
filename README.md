@@ -18,7 +18,7 @@ Dedicated and driven coder with over 20 years of experience, capable of expertly
 * JavaScript / TypeScript
     * Angular, jQuery, Babel, Webpack, Canvas, Three.js, Pixi.js, Node.js, Nuxt, React.js, JSON
 * C#
-    * Unity
+    * Godot, Unity
 * C++
     * Unreal Engine
 
