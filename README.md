@@ -30,7 +30,7 @@ Dedicated and driven coder with over 20 years of experience, capable of expertly
 * Debian (and forks), SmartOS, MacOS, Windows
 
 ## Professional Experience
-### All Digital Rewards (April 2012 - Present)
+### All Digital Rewards (March 2014 - Present)
 * Principal Engineer, Team Lead, Senior Software Engineer, DevOps, Lead Developer
 #### Responsibilities:
 * Led team of developers in agile and software development life cycle workflows
@@ -53,7 +53,7 @@ Dedicated and driven coder with over 20 years of experience, capable of expertly
 * Migrated tens of millions of records and three antiquated loyalty systems into a newly built microservices platform for a large, established survey company
 * Migrated a legacy monolithic application into a modern service-based architecture, which utilized docker & kubernetes, developing and implementing purpose-driven services with integration and unit testing during their automated deployment through continuous integration
 
-### ZEWADesign, LLC (September 2008 - 2012)
+### ZEWADesign, LLC (September 2008 - March 2014)
 * Owner, Developer, System Administrator, Designer
 #### Responsibilities:
 * Turnkey development and design of applications
