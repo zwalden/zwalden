@@ -49,7 +49,7 @@ Dedicated and driven coder with over 20 years of experience, capable of expertly
 * PHP, JS, MySQL, Google Cloud, Git, Docker, Kubernetes, Redis, AMQP, ElasticSearch, Vagrant, VirtualBox, Puppet, NginX, Apache, Linux, Laravel, Kibana, Metabase
 
 #### Highlights:
-* Onboarded large health insurance companies into an enterprise SaSS, which included event based driven architecture, webhooks and a proven track record of over 99.99% uptime across dozens of services
+* Onboarded large health insurance companies into an enterprise SaaS, which included event based driven architecture, webhooks and a proven track record of over 99.99% uptime across dozens of services
 * Migrated tens of millions of records and three antiquated loyalty systems into a newly built microservices platform for a large, established survey company
 * Migrated a legacy monolithic application into a modern service-based architecture, which utilized docker & kubernetes, developing and implementing purpose-driven services with integration and unit testing during their automated deployment through continuous integration
 
